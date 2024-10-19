@@ -11,3 +11,6 @@ first to install the node modules
 In the project directory, you can run:
 
 ### `npm run start`
+
+jawaban soal nomor 9:
+Saya biasanya menggunakan media query pada TailwindCSS dan Bootstrap untuk memastikan interface yang saya buat responsif. Dan prinsip desain yang saya terapkan adalah Mobile-First Approach
