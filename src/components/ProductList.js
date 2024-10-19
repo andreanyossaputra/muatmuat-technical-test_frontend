@@ -25,7 +25,6 @@ const ProductList = ({setEditProduct}) => {
                 </div>
             </div>
         ))}
-
         </div>
     );
 }
