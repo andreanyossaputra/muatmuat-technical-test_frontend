@@ -14,3 +14,7 @@ In the project directory, you can run:
 
 ### Jawaban soal nomor 9:
 Saya biasanya menggunakan media query pada TailwindCSS dan Bootstrap untuk memastikan interface yang saya buat responsif. Dan prinsip desain yang saya terapkan adalah Mobile-First Approach
+
+
+### Link Bonus Task
+https://github.com/andreanyossaputra/muatmuat-technical-bonus-test
