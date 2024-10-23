@@ -2,7 +2,6 @@
 
 Mohon maaf saya lupa untuk mendeploy test saya ke vercel
 
-This project was created using React JS and Tailwind CSS
 
 ## Available Scripts
 
